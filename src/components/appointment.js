@@ -23,8 +23,8 @@ function handleDelete (){
                                 <th scope="col">Duration</th>
                                 <th scope="col">Reason</th>
                                 <th scope="col">Type</th>
-                                <th scope="col">Doctor name</th> 
-                                <th scope="col">patient_firstname</th> 
+                                <th scope="col">Doctor-name</th> 
+                                <th scope="col">patient-name</th> 
                               
                                 </tr>
                             </thead>
